@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  width: 50rem;
+}
+
+.about__header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.about__photo {
+  height: 10rem;
+}
