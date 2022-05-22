@@ -195,8 +195,8 @@ ul#info-navigation__items {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50em;
-    height: 50em;
+    width: 45em;
+    height: 45em;
     aspect-ratio: 1/1;
     background-color: var(--light-pink);
     padding: 5em;
@@ -212,7 +212,7 @@ ul#info-navigation__items {
   }
 
   .about__photo {
-    height: 15em;
+    height: 10em;
   }
 
   .about__contacts {
@@ -241,9 +241,7 @@ ul#info-navigation__items {
     max-width: 40%;
     position: fixed;
     left: 58%;
-    top: 5px;
-    /* max-height: 100vh; */
-    /* bottom: 0%; */
+    bottom: 0;
   }
 }
 
