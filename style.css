@@ -62,6 +62,20 @@ a {
   padding: 2% 10vw;
 }
 
+figure {
+  margin: 0;
+  text-align: center;
+}
+
+figcaption {
+  font-size: 0.8rem;
+  color: var(--main-pink);
+}
+
+.phases-pic {
+  width: 25rem;
+}
+
 #profile {
   font-size: 3em;
 }
