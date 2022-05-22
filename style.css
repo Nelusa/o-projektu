@@ -83,7 +83,7 @@ figcaption {
 }
 
 .phases-pic {
-  width: 25rem;
+  width: 15rem;
 }
 
 #profile {
@@ -184,6 +184,9 @@ ul#info-navigation__items {
   .info-navigation__item {
     margin: 0 0 0 1.5em;
     font-size: 1em;
+  }
+  .phases-pic {
+    width: 25rem;
   }
 }
 
